@@ -5,3 +5,5 @@ This repo contains the SN Ia data of the Pantheon sample (based on Pan-STARRS1 M
 Based on the corresponding data files distributed with [CosmoMC](https://github.com/cmbant/CosmoMC). Original Pantheon data files are at [github.com/dscolnic/Pantheon](https://github.com/dscolnic/Pantheon).
 
 PantheonPlus files from DESI team, [paper](https://arxiv.org/abs/2202.04077) and [original repo](https://github.com/PantheonPlusSH0ES/DataRelease/tree/main/Pantheon%2B_Data/4_DISTANCES_AND_COVAR).
+
+DESY5 data from [github.com/des-science/DES-SN5YR](https://github.com/des-science/DES-SN5YR)
