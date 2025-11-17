@@ -1,0 +1,3 @@
+name = DES-Dovekie
+data_file = DES-Dovekie/DES-Dovekie_HD.csv
+mag_covmat_file = DES-Dovekie/covtot_inv_000.npz

@@ -7,3 +7,4 @@ Based on the corresponding data files distributed with [CosmoMC](https://github.
 PantheonPlus files from DESI team, [paper](https://arxiv.org/abs/2202.04077) and [original repo](https://github.com/PantheonPlusSH0ES/DataRelease/tree/main/Pantheon%2B_Data/4_DISTANCES_AND_COVAR).
 
 DESY5 data from [github.com/des-science/DES-SN5YR](https://github.com/des-science/DES-SN5YR)
+There are now two DES SN-5YR data sets, the original DES-SN5YR from Vincenzi+24 and the DES-Dovekie sample ([Popovic+26](https://ui.adsabs.harvard.edu/abs/2025arXiv251107517P/abstract)) with updated calibration from [Popovic+25b](https://ui.adsabs.harvard.edu/abs/2025arXiv250605471P/abstract).
